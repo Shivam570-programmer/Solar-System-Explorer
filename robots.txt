@@ -1,1 +1,5 @@
 
+User-agent: *
+Allow: /
+
+Sitemap: https://solar-system-explorer-snowy.vercel.app/sitemap.xml
